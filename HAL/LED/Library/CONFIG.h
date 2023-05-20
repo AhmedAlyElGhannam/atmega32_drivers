@@ -1,0 +1,10 @@
+#ifndef CONFIG_H_INCLUDED
+#define CONFIG_H_INCLUDED
+
+#define LED_SINGLE_UINT8_ON    1
+#define LED_SINGLE_UINT8_OFF   0
+
+#define LED_ARRAY_UINT8_ON    0xFF
+#define LED_ARRAY_UINT8_OFF   0x00
+
+#endif // CONFIG_H_INCLUDED
